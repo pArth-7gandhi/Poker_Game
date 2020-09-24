@@ -1,2 +1,2 @@
-# BlackJackPython
-Python GUI-based Blackjack card game
+# PokerGame python
+Python GUI-based Poker Game using Sockets. Single server multiple clients.
