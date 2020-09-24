@@ -1,2 +1,2 @@
 # PokerGame python
-Python GUI-based Poker Game using Sockets. Single server multiple clients.
+Python (Tkinter) GUI-based Poker Game using Sockets. Single server multiple clients.
